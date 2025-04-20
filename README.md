@@ -10,4 +10,4 @@ I used JLCPCB for fabrication. You can use the provided gerber and BOM and Pick&
 I have also provided the necessary files if you need to tweak and change anything
 I have used EasyEDA for designing the PCB
 Here is the Schematic
-![Schematic_USB-Hub-with-audio-card_2025-04-09](https://github.com/user-attachments/assets/63c4ce91-a612-4cdc-8a47-cb7f729a26c6)
+![Schematic_USB-Hub-with-audio-card_2025-04-20](https://github.com/user-attachments/assets/f08f7157-8704-4773-a261-cdedf22febfc)
